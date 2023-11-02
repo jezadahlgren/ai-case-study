@@ -25,22 +25,22 @@ AMP Clarity is a robotic performance software solution that incorporates mass es
 
 According to Waste Management World: 
 
-Can you describe how the technology works?
-There are three components of our system, and you can think of them as the eyes, the brain, and the arms. Cameras, the eyes, record material as it comes down a conveyor to be picked and sorted. The brain, which is the AI, converts these video camera images into data, capturing and categorizing everything it recognizes. Then, software guides the robotic “arms” to pick and place the material to be recovered. All of this happens at superhuman speed with consistent precision and extremely high accuracy.
+>Can you describe how the technology works?
+>There are three components of our system, and you can think of them as the eyes, the brain, and the arms. Cameras, the eyes, record material as it comes down a conveyor to be picked and sorted. The brain, which is the AI, converts these video camera images into data, capturing and categorizing everything it recognizes. Then, software guides the robotic “arms” to pick and place the material to be recovered. All of this happens at superhuman speed with consistent precision and extremely high accuracy.
 
-How maintenance-intensive is this technology?
-As with any equipment, AMP systems require periodic maintenance inclusive of quick change-out of consumable parts, routine inspection, and preventive maintenance for wear parts. Maintenance activities are short with remote support available from AMP’s service team and tooling provided to assist with maintenance activities.
+>How maintenance-intensive is this technology?
+>As with any equipment, AMP systems require periodic maintenance inclusive of quick change-out of consumable parts, routine inspection, and preventive maintenance for wear parts. Maintenance activities are short with remote support available from AMP’s service team and tooling provided to assist with maintenance activities.
 
-What sets AMP Robotics technology apart from others?
-Our proprietary AI platform, AMP Neuron, recognizes more than 50 billion objects on an annual basis—a number that continues to exponentially increase as our install base expands. We’ve seen the most materials, in more permutations. AI accuracy and performance is built on training a platform on as much data as possible. As our fleet of automation continuously grows across the globe, our AI exponentially increases its ability to learn from data collected from different locations, growing smarter and more effective every day. A robot in a UK sorting facility is helping robots in the U.S., Spain, or any other location improve their ability to identify items that can be recycled.
+>What sets AMP Robotics technology apart from others?
+>Our proprietary AI platform, AMP Neuron, recognizes more than 50 billion objects on an annual basis—a number that continues to exponentially increase as our install base expands. We’ve seen the most materials, in more permutations. AI accuracy and performance is built on training a platform on as much data as possible. As our fleet of automation continuously grows across the globe, our AI exponentially increases its ability to learn from data collected from different locations, growing smarter and more effective every day. A robot in a UK sorting facility is helping robots in the U.S., Spain, or any other location improve their ability to identify items that can be recycled.
 
 
 ## Landscape
 
 Although this field has exploded in the last decade, currently the U.S. has been slow to adopt the recycling habit.  The ability to create methods that allow companies to identify and create solutions to a greener method of consumption will only help the sustainability of our planet.  Other companies attempting to help include: 
-“BANQloop is a US-based startup that develops an eponymous smart waste management platform. The startup deploys its smart trash units, banQx1, or its heavy-duty variant, banQx1.HD, at waste generation sites. They use AI-driven robotics to sort wastes at the source. The startup’s mobile smart trash unit, banQx1.HDm, also provides household waste pick-up services.  BANQloop’s intelligence platform, loopiQ, then provides material analysis data, pick-up notifications, and green scores. Government institutions and businesses leverage these solutions to increase recycling rates and optimize waste logistics.”  (Retrieved October, 29, 2023. https://www.startus-insights.com/innovators-guide/recycling-technology-trends-innovation/#:~:text=Advanced%20recycling%20technologies%20have%20the,bacteria%20to%20tackle%20plastic%20waste)
+>“BANQloop is a US-based startup that develops an eponymous smart waste management platform. The startup deploys its smart trash units, banQx1, or its heavy-duty variant, banQx1.HD, at waste generation sites. They use AI-driven robotics to sort wastes at the source. The startup’s mobile smart trash unit, banQx1.HDm, also provides household waste pick-up services.  BANQloop’s intelligence platform, loopiQ, then provides material analysis data, pick-up notifications, and green scores. Government institutions and businesses leverage these solutions to increase recycling rates and optimize waste logistics.”  (Retrieved October, 29, 2023. https://www.startus-insights.com/innovators-guide/recycling-technology-trends-innovation/#:~:text=Advanced%20recycling%20technologies%20have%20the,bacteria%20to%20tackle%20plastic%20waste)
 
-BicyCompost is a French startup that provides bio-waste valorization. The startup collects organic waste using electric bikes and naturally composts it. BicyCompost then distributes the compost, free of charge, to its partner farmers, promoting local agriculture. This allows food businesses to ensure sustainable management of the waste they generate. .”  (Retrieved October, 29, 2023. https://www.startus-insights.com/innovators-guide/recycling-technology-trends-innovation/#:~:text=Advanced%20recycling%20technologies%20have%20the,bacteria%20to%20tackle%20plastic%20waste)
+>BicyCompost is a French startup that provides bio-waste valorization. The startup collects organic waste using electric bikes and naturally composts it. BicyCompost then distributes the compost, free of charge, to its partner farmers, promoting local agriculture. This allows food businesses to ensure sustainable management of the waste they generate. .”  (Retrieved October, 29, 2023. https://www.startus-insights.com/innovators-guide/recycling-technology-trends-innovation/#:~:text=Advanced%20recycling%20technologies%20have%20the,bacteria%20to%20tackle%20plastic%20waste)
 
 
 ## Results
@@ -52,19 +52,19 @@ Currently AMP Robotics has over 80 different sorting facilities and approximatel
 Personally, I think that AMP Robotics taps into human nature in that the U.S. is inherently slow to adopt new processes making the act of recycling difficult.  Americans are not always placing material in the correct locations for recycling in general (I know I might not be the best at this and I TRY!).  However, by taking out the human element and sorting materials prior to landfill AMP Robotics increase the likelihood of waste exports and landfill accumulation.  I think that AMP Robotic should partner with some of the bio-solutions to break down the material that it identifies.  This partnership would allow for the full turnover of waste into a net zero waste process.  
 
 ##Resources
-https://www.amprobotics.com/
-https://www.rts.com/resources/guides/the-state-of-recycling-today/#:~:text=Back%20in%201960%2C%20only%207,and%20it's%20growing%20each%20year.
-https://www.wastedive.com/news/plastic-recycling-rates-low-better-data-collection-needed-PET-HDPE-TRP/635107/
-https://www.epa.gov/circulareconomy/america-recycles-day#:~:text=The%20recycling%20rate%20has%20increased,and%20%2437.8%20billion%20in%20wages.
-https://www.dumpsters.com/blog/us-recycling-statistics#:~:text=Of%20the%20major%20countries%20that,of%20waste%20each%20country%20recycles.
-https://www.waste360.com/recycling/chinese-banned-our-recyclables-what-happened-next
-https://www.theguardian.com/us-news/2019/jun/17/recycled-plastic-america-global-crisis
-https://research.contrary.com/reports/amp-robotics
-https://predictiveanalyticsworldclimate.com/speaker/matanya-horowitz/
-https://www.cbinsights.com/company/amp-robotics/financials
-https://waste-management-world.com/resource-use/lets-talk-about-artificial-intelligence-for-recycling-with-amp-robotics/
-https://www.environmental-expert.com/products/amp-neuron-artificial-intelligence-robots-656129
-https://www.startus-insights.com/innovators-guide/recycling-technology-trends-innovation/#:~:text=Advanced%20recycling%20technologies%20have%20the,bacteria%20to%20tackle%20plastic%20waste.
+[Source. 1](https://www.amprobotics.com/)
+[Source. 2](https://www.rts.com/resources/guides/the-state-of-recycling-today/#:~:text=Back%20in%201960%2C%20only%207,and%20it's%20growing%20each%20year.)
+[Source. 3](https://www.wastedive.com/news/plastic-recycling-rates-low-better-data-collection-needed-PET-HDPE-TRP/635107/)
+[Source. 4](https://www.epa.gov/circulareconomy/america-recycles-day#:~:text=The%20recycling%20rate%20has%20increased,and%20%2437.8%20billion%20in%20wages.)
+[Source. 5](https://www.dumpsters.com/blog/us-recycling-statistics#:~:text=Of%20the%20major%20countries%20that,of%20waste%20each%20country%20recycles.)
+[Source. 6](https://www.waste360.com/recycling/chinese-banned-our-recyclables-what-happened-next
+https://www.theguardian.com/us-news/2019/jun/17/recycled-plastic-america-global-crisis)
+[Source. 7](https://research.contrary.com/reports/amp-robotics)
+[Source. 8](https://predictiveanalyticsworldclimate.com/speaker/matanya-horowitz/)
+[Source. 9](https://www.cbinsights.com/company/amp-robotics/financials)
+[Source. 10](https://waste-management-world.com/resource-use/lets-talk-about-artificial-intelligence-for-recycling-with-amp-robotics/)
+[Source. 11](https://www.environmental-expert.com/products/amp-neuron-artificial-intelligence-robots-656129)
+[Source. 12](https://www.startus-insights.com/innovators-guide/recycling-technology-trends-innovation/#:~:text=Advanced%20recycling%20technologies%20have%20the,bacteria%20to%20tackle%20plastic%20waste)
 
 
 
